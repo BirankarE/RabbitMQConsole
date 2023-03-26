@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3EZD2y+d29rLRKBwg267LW5LFwqV7xX2lHPa7RagLoPERD1AccUVNnaWI02QhPmmJCDvss0N9rut9kySyutsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eyup.birankar\\Project\\MyConsoleRabbitMQ\\RabbitMQConsole\\ConsoleApp1\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eyup.birankar\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\eyup.birankar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\eyup.birankar\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
